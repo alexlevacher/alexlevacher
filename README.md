@@ -1,2 +1,2 @@
 Software developper for ENHANCIA,
-based in Lyon, France
+In Lyon, France
