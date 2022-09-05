@@ -1,2 +1,1 @@
-Lead Software Engineer for ENHANCIA,
-In Lyon, France
+Software Engineer in Lyon, France
